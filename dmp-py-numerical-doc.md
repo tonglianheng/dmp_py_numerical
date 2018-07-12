@@ -73,7 +73,7 @@ a long mile.
 computational performance of matrix multiplication using standard Python
 vs. `numpy`. Here the amount of time taken to perform a matrix
 multiplication is recorded for two sqaure matrices of increasing size
-(rank)](/root/sandbox/mat_mult_times.png)
+(rank)](https://lh3.googleusercontent.com/LDu74SIKIo9fjHq1_agPcJ1lj-vgMDbnDsnfxdwXm1xXM5n-5e6oErOFTpaYDuaphU38ejMZjQxH2OtHpsFSGRdMiLzNdyahqjlcNx2Alc-h5x26L_qiIPRTV712ko_i90goWf1pqW3tLUYaLccof35HD6MdQOXrka0tVKXw53G2pWlrJvTm5V-J_QSX0qTK0_VUtIqswc_wFitmX6M7Q0Uq364eRDD1bt0vSy8_NjimL6BDftFpaGYuExAY2XuAjfJkLCz7ihhtSxc3BLbbz-qD_MGmOZdowQqcBQW7lxfHDkIMUE8NmlVhyQBlzGpmqtXYHrQ00jKC6nhM-K5vHHAhAagwZmsL7vchYmkKgUwDikZeEXMSf5z_M2SsxxJbniof14SELfglruAIZjMIN3GrCsF0MiEQDsnD_DaBjP_Ias1uJ0ZfDUrjhDB_2qDEq5xgAU3aqUMare5bqO6xMzL5dvfNB2cwS5u_iMOx2ovyAeuZQ3RZDzrQ6TnEwnMD2z2XTIxZ81tMkIDl_obcfNpPmF5NmRzXVpEFE4AlOvI18TazY7c3TLSUW-TYDNg1VKqpVRMD7oIipqDq9ad9By5vUwJJFDPcPmbDQ_W43M8QuuZNOI4SIhxh-uMhbcnxHcy4sRtuKrc2Gza7Q4Xqx2IzD7Yk81-B=w626-h318-no)
 
 ![Figure 2: <span id="fig:mat_dot_times.png"></span>Comparison of
 computational performance of dot product using standard Python vs
